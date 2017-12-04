@@ -1,12 +1,12 @@
 <?php
 
 /*
- * Plugin Name: WP Smart Export
- * Version:     1.4.2
+ * Plugin Name: WP Smart Export v2
+ * Version:     1.0
  * Description: A smart and highly customizable data exporter capable of outputting any post type and user data in human readable form.
  * Author:      Sebet
- * Author URI:  http://bruno-carreco.com
- * Plugin URI:  http://bruno-carreco.com/wpuno/demo/wp/wp-smart-export/?demo=1
+ * Author URI:  
+ * Plugin URI:  
  *
  * @fs_premium_only /includes/premium/
  */
